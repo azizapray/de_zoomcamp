@@ -1,1 +1,1 @@
-# de_zoomcamp_2024
+# de_zoomcamp
